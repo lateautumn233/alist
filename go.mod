@@ -57,10 +57,10 @@ require (
 	golang.org/x/time v0.3.0
 	google.golang.org/appengine v1.6.7
 	gopkg.in/ldap.v3 v3.1.0
-	gorm.io/driver/mysql v1.4.7
+	gorm.io/driver/mysql v1.5.2
 	gorm.io/driver/postgres v1.4.8
 	gorm.io/driver/sqlite v1.4.4
-	gorm.io/gorm v1.24.5
+	gorm.io/gorm v1.25.2-0.20230530020048-26663ab9bf55
 )
 
 require (
